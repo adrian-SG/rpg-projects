@@ -1,4 +1,5 @@
 {
+	"siteVersion": "1.197.0",
 	"_meta": {
 		"sources": [
 			{
@@ -12,8 +13,8 @@
 				"convertedBy": []
 			}
 		],
-		"dateAdded": 1704396031,
-		"dateLastModified": 1704396031
+		"dateAdded": 1704459774,
+		"dateLastModified": 1704459774
 	},
 	"monster": [
 		{
@@ -321,6 +322,7 @@
 					]
 				}
 			],
+			"tokenUrl": "https://cdn.leonardo.ai/users/99020b7e-1a02-4f72-a504-0ab45f1df56b/generations/e254ae93-5215-4807-88b6-233b93fe92bd/variations/Default_Illustration_of_a_medium_long_shot_portrait_of_a_70_ye_2_e254ae93-5215-4807-88b6-233b93fe92bd_1.jpg",
 			"attachedItems": [
 				"rapier|phb"
 			],
@@ -337,6 +339,15 @@
 			"fluff": {
 				"entries": [
 					"Está acostumbrado a las tensiones políticas y a las intrigas palaciegas, pero los años le han pasado factura y, ahora, sufre una dolorosa enfermedad incurable que le hincha los pies. No le hace gracia que los protagonistas estén en Kratea. Los recibe cumpliendo los protocolos, les mostrará respeto y se comportará de forma exquisita con ellos, pero desearía resolver el conflicto por sí mismo, sin ayuda del Imperio. No tiene ni la más remota idea de qué pasa en la ciudad, pero se esforzará por quitarles importancia a los sucesos. Para él, está claro que todo es culpa de los éinar, una consecuencia de haber enviado a sus druidas como esclavos a las minas. Ervión mantendrá esa fachada externamente, pero, por dentro, está consumido por la paranoia. Cree que hay una conspiración para destruir al apellido Durham y que él será el siguiente en ser envenenado porque todo comenzó cuando anunció la boda de su hija. Termina sus frases con un sonoro ¡JA! y lamenta que todo esto llegue a oídos del Imperio. Por ello, hará lo posible para descubrir por su cuenta a los asesinos antes de que lo hagan los protagonistas. Asimismo les ocultará a estos las auténticas minas como sea e intentará retenerlos con lujo y comodidades en su palacio."
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://cdn.leonardo.ai/users/99020b7e-1a02-4f72-a504-0ab45f1df56b/generations/e254ae93-5215-4807-88b6-233b93fe92bd/variations/Default_Illustration_of_a_medium_long_shot_portrait_of_a_70_ye_2_e254ae93-5215-4807-88b6-233b93fe92bd_1.jpg"
+						}
+					}
 				]
 			}
 		},
@@ -546,6 +557,7 @@
 					]
 				}
 			],
+			"tokenUrl": "https://cdn.leonardo.ai/users/99020b7e-1a02-4f72-a504-0ab45f1df56b/generations/65a1c9ea-e087-42ee-a0f6-ef0f93b5b82c/variations/Default_Illustration_of_a_medium_long_shot_portrait_of_a_70_ye_1_65a1c9ea-e087-42ee-a0f6-ef0f93b5b82c_1.jpg",
 			"attachedItems": [
 				"rapier|phb"
 			],
@@ -562,6 +574,15 @@
 			"fluff": {
 				"entries": [
 					"Está deseando que su hija se case para huir de la ciudad y volver a los territorios de su familia en el Imperio. Odia Kratea, dado que tiene la sensación de que este lugar le ha robado la vida. Ella podría haber hecho grandes cosas en el Imperio, pero el matrimonio con Ervión y el nacimiento de su hija la asfixió en esta ciudad colonial alejada de todo. Aborrece la esclavitud, pues Kratea es de oro «gracias» a la sangre de los éinar. Sabe la verdad sobre la Conquista y le repugna ser cómplice de ella al ocultársela al trono imperial. Es la segunda hija de los duques de Kairón, su hermano mayor falleció hace dos años sin descendencia, de modo que ella es la heredera de sus tierras en el Imperio, y está deseando volver a ellas como señora de Kairón. Su intención era acudir a la emperatriz para contarle la verdad sobre la Conquista y los éinar, así como solicitarle su divorcio por honor, recuperar su apellido paterno y rehacer su vida en sus tierras. Sin embargo, si lo hace ahora, destruirá el compromiso de su hija con el príncipe imperial, y eso la atormenta. Samara no sabe que su marido conoce sus planes y está dispuesto a matarla antes de que abandone Kratea. Ella es amable, sabia y ácida en sus comentarios. Además, bebe vino con soltura. Será evidente para los personajes jugadores, por su mirada, que algo la atormenta: Samara está al corriente de que Gálar tiene sangre éinar porque sabe que sus abuelos secuestraron a una niña de esta etnia al no poder tener descendencia y que la tomaron como propia. Nunca ha considerado que esto fuera relevante, salvo cuando Gálar intentó cortejar a su hija. Entonces, impidió ese cortejo, mintiendo a Elissandria sobre Gálar para que lo viera como un mezquino engreído."
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://cdn.leonardo.ai/users/99020b7e-1a02-4f72-a504-0ab45f1df56b/generations/65a1c9ea-e087-42ee-a0f6-ef0f93b5b82c/variations/Default_Illustration_of_a_medium_long_shot_portrait_of_a_70_ye_1_65a1c9ea-e087-42ee-a0f6-ef0f93b5b82c_1.jpg"
+						}
+					}
 				]
 			}
 		},
