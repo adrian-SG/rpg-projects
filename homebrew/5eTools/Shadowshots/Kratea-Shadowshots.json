@@ -13,8 +13,8 @@
 				"convertedBy": []
 			}
 		],
-		"dateAdded": 1704647618,
-		"dateLastModified": 1704647618
+		"dateAdded": 1704664665,
+		"dateLastModified": 1704664665
 	},
 	"monster": [
 		{
@@ -125,7 +125,6 @@
 					]
 				}
 			],
-			"tokenUrl": "https://cdn.midjourney.com/abe7f3c4-ab23-44e5-946b-e1ef19fb874b/0_1.png",
 			"attachedItems": [
 				"dagger|phb"
 			],
@@ -158,6 +157,15 @@
 			"fluff": {
 				"entries": [
 					"En la capital, su desaparición se ha considerado una auténtica catástrofe, pese a que nadie de la aventura lo sepa. Es hermoso, pero sin volvernos locos. Tiene una cicatriz en la frente de una coz de caballo que afea el conjunto de su rostro a la vez que lo hace reconocible en cualquier parte. Por ello, él lo ocultará con un hechizo. Aurven es muy hábil con la magia (mago de nivel 7) y un inepto en todo lo que tenga que ver con las armas. Entre los guerreros de la guarnición del barco, siempre destacará por ser mediocre, pero lo disimulará con sus habilidades mágicas y la ayuda de su guardia personal: 12  hombres y mujeres que darán su vida por él. Es un buen hombre, decidido en las cosas importantes y dubitativo en las banales. Necesita conocer a Elissandria antes de casarse con ella. Como director de juego, elige el mejor momento para que Aurven revele su tapadera o para que los personajes jugadores descubran la verdad sobre él. Cada vez que los 10 hombres que acompañan a los aventureros participen en un combate, puedes hacerles tirar Percepción para ver si descubren algo: Aurven apenas lucha y 5 de los guerreros jamás se apartan de él. También es posible que sea Aurven quien rompa su tapadera para ir corriendo a defender a la princesa, si esta se halla en situación de máximo peligro."
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://cdn.midjourney.com/953ccfd7-60ee-411b-a02f-62b58607f52b/0_3.png"
+						}
+					}
 				]
 			}
 		},
