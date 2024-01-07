@@ -13,8 +13,8 @@
 				"convertedBy": []
 			}
 		],
-		"dateAdded": 1704459774,
-		"dateLastModified": 1704459774
+		"dateAdded": 1704647618,
+		"dateLastModified": 1704647618
 	},
 	"monster": [
 		{
@@ -125,6 +125,7 @@
 					]
 				}
 			],
+			"tokenUrl": "https://cdn.midjourney.com/abe7f3c4-ab23-44e5-946b-e1ef19fb874b/0_1.png",
 			"attachedItems": [
 				"dagger|phb"
 			],
@@ -255,6 +256,15 @@
 			"fluff": {
 				"entries": [
 					"Instruida para cumplir el papel de heredera del ducado, tiene todas las virtudes de una guerrera legendaria. Es decidida, bondadosa, inteligente y posee un evidente virtuosismo marcial. Es fácil ver en ella a una digna emperatriz y dejarse fascinar por su carisma natural. Está enamorada del hijo del la emperatriz o, al menos, de quien escribe sus cartas de amor, que llevan un año intercambiándose. Sabe que quizá no sea él quien las escriba. Quizá esa sensibilidad e inteligencia procedan de algún bardo de palacio, pero guarda la esperanza de que su autor sea el príncipe, no solo por ella, sino también por el Imperio. Es una guerrera excepcional y maneja con maestría el escudo y la espada, pero una inepta en el uso de la magia. Se ha criado dentro de los muros de palacio y no pone en duda que la Kratea que ella conoce es la única que existe: no ha visto la miseria, el hambre, el racismo, la violencia… ¿Cómo a una mente tan despierta como la suya se la pudo engañar tanto tiempo? "
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://cdn.midjourney.com/39d49f5b-e4c1-4403-943f-6d57898454eb/0_0.png"
+						}
+					}
 				]
 			}
 		},
@@ -322,7 +332,6 @@
 					]
 				}
 			],
-			"tokenUrl": "https://cdn.leonardo.ai/users/99020b7e-1a02-4f72-a504-0ab45f1df56b/generations/e254ae93-5215-4807-88b6-233b93fe92bd/variations/Default_Illustration_of_a_medium_long_shot_portrait_of_a_70_ye_2_e254ae93-5215-4807-88b6-233b93fe92bd_1.jpg",
 			"attachedItems": [
 				"rapier|phb"
 			],
@@ -557,7 +566,6 @@
 					]
 				}
 			],
-			"tokenUrl": "https://cdn.leonardo.ai/users/99020b7e-1a02-4f72-a504-0ab45f1df56b/generations/65a1c9ea-e087-42ee-a0f6-ef0f93b5b82c/variations/Default_Illustration_of_a_medium_long_shot_portrait_of_a_70_ye_1_65a1c9ea-e087-42ee-a0f6-ef0f93b5b82c_1.jpg",
 			"attachedItems": [
 				"rapier|phb"
 			],
@@ -628,6 +636,15 @@
 			"fluff": {
 				"entries": [
 					"Tras una vida de conquistas, poder y desenfreno, la muerte parece decidida a ignorarle. Vakram yace en una cama desde hace años, con la mente nublada y el cuerpo marchito. En ocasiones, cuando la lucidez vuelve a abrazarle, intenta levantarse y hacer cosas por palacio, dando órdenes, tomando decisiones decorativas y planificando eventos sociales. No obstante, esto suele durar poco, pues, en cuestión de horas, su mente vuelve a fallar y Vakram confunde hechos y pregunta por quienes ya están muertos, y la culpa por los horribles actos que cometió en el pasado lo atormenta hasta dejarlo otra vez postrado en su cama. Introdúcelo cuando quieras en cualquier escena de palacio y úsalo para proporcionarles a los protagonistas datos inconexos sobre las minas. (No necesita estadísticas)."
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://cdn.midjourney.com/3bc85ac0-37db-4a98-88d1-d455fc806e35/0_2.png"
+						}
+					}
 				]
 			}
 		},
@@ -774,6 +791,15 @@
 			"fluff": {
 				"entries": [
 					"Áinoch es un viejo depravado que sirve al duque a cambio de un montón de oro anual. Fue un estudiante prometedor de la universidad de Oliánter, pero se dejó corromper por la ambición y los vicios cotidianos. Su vida está llena de traiciones, engaños y huidas. Se enroló en el barco de Vakram, huyendo de la justicia imperial por delitos de sangre que ya nadie recuerda. Su talento mágico y alquímico es indudable. Es responsable del tratamiento y extracción de todos los metales y joyas que salen de Kratea y, por tanto, una de las personas de mayor influencia en la ciudad. Está siempre al lado del duque en los asuntos de Estado, actuando como su consejero. Sabe que le llega la hora de la muerte y ha decidido ayudar al joven Gálar a cumplir sus deseos a cambio de un antiguo conjuro druídico de regeneración que le volverá a hacer joven y que solo el Círculo de la Tierra puede efectuar. Conoce la leyenda de los titanes, pero no la intención de Gálar de convocarlos. Solo cuando vea el cuerno en el Acto 3 empezará a encajar las piezas de lo que está pasando. Cuando vea al Titán de Piedra, preparará su huida de inmediato."
+				],
+				"images": [
+					{
+						"type": "image",
+						"href": {
+							"type": "external",
+							"url": "https://cdn.midjourney.com/3bc85ac0-37db-4a98-88d1-d455fc806e35/0_2.png"
+						}
+					}
 				]
 			}
 		}
